@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\TASK2.exe
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\TASK2.deps.json
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\TASK2.runtimeconfig.json
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\TASK2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\TASK2.dll
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\ref\TASK2.dll
+C:\Users\HP\source\repos\TASK2\TASK2\bin\Debug\net5.0\TASK2.pdb
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.AssemblyInfo.cs
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.dll
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\ref\TASK2.dll
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.pdb
+C:\Users\HP\source\repos\TASK2\TASK2\obj\Debug\net5.0\TASK2.genruntimeconfig.cache
